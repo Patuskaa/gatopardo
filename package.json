@@ -9,10 +9,7 @@
   "main": "site.js",
   "scripts": {
     "scripts": {
-       "start": "react-scripts start",
-       "build": "react-scripts build",
-       "test": "react-scripts test",
-       "eject": "react-scripts eject"
+       "start": "node site.js"
 }
   },
   "author": "Filipa Bastos e Patricia Salgueiro",
