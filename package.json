@@ -1,7 +1,7 @@
 {
   "name": "gatopardo",
   "engines": {
-    "node": "14.x"
+    "node": "17.3.0"
   },
   "type": "module",
   "version": "1.0.0",
